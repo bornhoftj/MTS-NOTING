@@ -1,0 +1,9 @@
+{
+  "name": "MTS NOTING PRO v1.3.1",
+  "description": "An AI-powered application to upload call audio and documents, generate structured notes, and ask specific questions about the content. Features a modern and intuitive interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ],
+  "prompt": ""
+}
